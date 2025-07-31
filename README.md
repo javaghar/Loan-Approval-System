@@ -1,1 +1,1 @@
-Disclaimer: “This model is for educational/demo use only.”
+Disclaimer: “This model is for educational use only.”
